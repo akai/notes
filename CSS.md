@@ -9,6 +9,8 @@
 
 # CSS hacks
 
+* [Conditional Stylesheets vs CSS Hacks? Answer: Neither!](http://paulirish.com/2008/conditional-stylesheets-vs-css-hacks-answer-neither/) by Paul Irish
+* [safe CSS hacks](http://mathiasbynens.be/notes/safe-css-hacks) by Mathias
 * [Quick Tip: How to Target IE6, IE7, and IE8 Uniquely with 4 Characters](http://net.tutsplus.com/tutorials/html-css-techniques/quick-tip-how-to-target-ie6-ie7-and-ie8-uniquely-with-4-characters/)
 
   ``` css
